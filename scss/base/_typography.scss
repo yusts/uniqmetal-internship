@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css?family=Muli:300,400,500,600,600i,700&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Lato:400,700&display=swap");
+
+//FONT-WEIGHT
+
+$italic: italic;
+
+$light: 300; 
+$regular: 400;
+$medium: 500;
+$semi-bold: 600;
+$semi-bold-italic: 600i;
+$bold: 700;
+
+ul {
+    list-style: none;
+}
+
+li {
+    list-style-type: none;
+}
