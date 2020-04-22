@@ -251,7 +251,7 @@ li {
   position: relative;
   text-align: center;
   padding: 220px 0 164px 0;
-  background: url(/img/header-text/header-text.png);
+  background: url(../img/header-text/header-text.png);
   background-size: cover;
 }
 
@@ -259,7 +259,7 @@ li {
   padding: 92px 0 90px 0;
   position: relative;
   text-align: center;
-  background: url(/img/header-text/header-text.png);
+  background: url(../img/header-text/header-text.png);
   background-size: cover;
 }
 
